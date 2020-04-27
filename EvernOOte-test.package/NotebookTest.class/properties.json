@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "EvernOOte-test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"note1",
+		"note2",
+		"nota1",
+		"nota2",
+		"nota3",
+		"nota4"
+	],
+	"name" : "NotebookTest",
+	"type" : "normal"
+}

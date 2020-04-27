@@ -6,11 +6,11 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"texto",
 		"titulo",
+		"texto",
 		"tags",
 		"fechaCreacion"
 	],
-	"name" : "Notas",
+	"name" : "Nota",
 	"type" : "normal"
 }

@@ -6,10 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"notebooks",
-		"nombre",
-		"contraseña"
+		"notas"
 	],
-	"name" : "Usuarios",
+	"name" : "Notebook",
 	"type" : "normal"
 }

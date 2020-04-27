@@ -1,13 +1,16 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
-	"category" : "EvernOOte-model",
+	"super" : "TestCase",
+	"category" : "EvernOOte-test",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"notas"
+		"nota1",
+		"nota2",
+		"nota3",
+		"nota4"
 	],
-	"name" : "Notebooks",
+	"name" : "NotasTest",
 	"type" : "normal"
 }
