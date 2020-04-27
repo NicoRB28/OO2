@@ -5,7 +5,17 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "UsuarioTest",
+	"instvars" : [
+		"usr1",
+		"usr2",
+		"note1",
+		"note2",
+		"note3",
+		"nota1",
+		"nota2",
+		"nota3",
+		"nota4"
+	],
+	"name" : "UsuarioEvernooteTest",
 	"type" : "normal"
 }
