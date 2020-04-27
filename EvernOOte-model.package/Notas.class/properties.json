@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "EvernOOte-model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"texto",
+		"titulo",
+		"tags",
+		"fechaCreacion"
+	],
+	"name" : "Notas",
+	"type" : "normal"
+}
