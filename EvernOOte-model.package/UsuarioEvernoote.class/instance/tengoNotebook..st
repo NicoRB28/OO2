@@ -1,4 +1,4 @@
 as yet unclassified
-tengoNote: aNote
+tengoNotebook: aNote
 
 	^notebooks includes: aNote.
