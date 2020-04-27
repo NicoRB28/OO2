@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "SpOOtify-test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"album1",
+		"album2",
+		"albumVacio",
+		"tema1",
+		"tema2",
+		"tema3"
+	],
+	"name" : "AlbumSpOOtifyTest",
+	"type" : "normal"
+}

@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "SpOOtify-test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"usr1",
+		"usr2",
+		"usr3",
+		"tema1",
+		"tema2",
+		"tema3",
+		"tema4"
+	],
+	"name" : "UsuarioSpOOtifyTest",
+	"type" : "normal"
+}
