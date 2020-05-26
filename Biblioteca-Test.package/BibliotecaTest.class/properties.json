@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Biblioteca-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"socio1",
+		"socio2",
+		"bibliotecaVoor",
+		"bibliotecaNeo"
+	],
+	"name" : "BibliotecaTest",
+	"type" : "normal"
+}

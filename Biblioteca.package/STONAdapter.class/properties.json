@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Exporter",
+	"category" : "Biblioteca",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STONAdapter",
+	"type" : "normal"
+}
