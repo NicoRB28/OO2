@@ -1,10 +1,10 @@
 running
 setUp
 	
-	agua1 := TopografiaSimple agua.
-	agua2 := TopografiaSimple agua.
-	tierra1 := TopografiaSimple tierra.
-	tierra2 := TopografiaSimple tierra.
+	agua1 := TopografiaAgua new.
+	agua2 := TopografiaAgua new .
+	tierra1 := TopografiaTierra new .
+	tierra2 := TopografiaTierra new.
 	
 	tComp := TopografiaCompuesta new.
 	

@@ -1,13 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "Topografia",
 	"category" : "Ejercicio3-OO2-model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"topoComponentes"
+		"proporcion",
+		"esAgua"
 	],
-	"name" : "Topografia",
+	"name" : "TopografiaAgua",
 	"type" : "normal"
 }

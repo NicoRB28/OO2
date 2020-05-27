@@ -1,4 +1,4 @@
-accessing
-proporcion
+as yet unclassified
+igualAgua 
 
 	^self subclassResponsibility .

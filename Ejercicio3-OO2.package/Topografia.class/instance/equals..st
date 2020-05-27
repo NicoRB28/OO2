@@ -1,5 +1,6 @@
 comparing
-equals: anObject
+equals: otraTopografia
 
-	^self = anObject and:[
-		self proporcion = anObject proporcion].
+	^self subclassResponsibility .
+
+

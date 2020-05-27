@@ -1,4 +1,4 @@
 adding
 addComponent: aComponent
-
-	componentes add: aComponent.
+	self completa
+		ifFalse: [ componentes add: aComponent ]

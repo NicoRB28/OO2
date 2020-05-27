@@ -5,7 +5,10 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "TopografiaSimple",
+	"instvars" : [
+		"proporcion",
+		"esAgua"
+	],
+	"name" : "TopografiaTierra",
 	"type" : "normal"
 }

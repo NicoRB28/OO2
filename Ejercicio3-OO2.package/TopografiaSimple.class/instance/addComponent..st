@@ -1,4 +1,0 @@
-adding
-addComponent: anObject
-
-	^anObject .
