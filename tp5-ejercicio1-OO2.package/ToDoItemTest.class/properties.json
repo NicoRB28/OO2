@@ -9,7 +9,8 @@
 		"toDoPending",
 		"toDoInProgress",
 		"toDoPaused",
-		"toDoFinished"
+		"toDoFinished",
+		"toDoConFecha"
 	],
 	"name" : "ToDoItemTest",
 	"type" : "normal"

@@ -1,4 +1,4 @@
 accessing
 workedTime
 
-	state workedTime: self.
+	^state workedTime: self.

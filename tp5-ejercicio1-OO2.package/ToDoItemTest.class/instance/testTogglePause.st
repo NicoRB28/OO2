@@ -1,5 +1,5 @@
 tests
-testTogglePasuse
+testTogglePause
 	self shouldnt: [ toDoInProgress togglePause ] raise: Error.
 	self should: [ toDoPending togglePause ] raise: Error.
 	self should: [ toDoFinished togglePause ] raise: Error.
